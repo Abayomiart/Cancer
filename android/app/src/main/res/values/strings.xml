@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TunnelX VPN</string>
+    <string name="btn_connect">CONECTAR</string>
+    <string name="btn_disconnect">DESCONECTAR</string>
+    <string name="status_not_connected">NÃO CONECTADO</string>
+    <string name="status_connected">CONECTADO [SSH-TLS]</string>
+</resources>

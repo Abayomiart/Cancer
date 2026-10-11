@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF070B09</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="emerald_500">#FF10B981</color>
+    <color name="emerald_700">#FF047857</color>
+    <color name="emerald_950">#FF064E3B</color>
+    <color name="card_bg">#FF0A100D</color>
+    <color name="border_color">#FF14261C</color>
+    <color name="text_muted">#FF608B73</color>
+    <color name="red_600">#FFDC2626</color>
+</resources>

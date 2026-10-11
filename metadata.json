@@ -1,0 +1,6 @@
+{
+  "name": "TunnelX VPN - SSH TLS Tunnel & Android VpnService",
+  "description": "Aplicativo de VPN ultra funcional com suporte a SSH TLS Tunnel, SNI injector, gerenciador de VPS, testes de conexão reais e código integrado de Android VpnService.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
